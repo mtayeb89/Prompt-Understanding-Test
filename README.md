@@ -1,4 +1,12 @@
 🎯 Prompt Understanding Test
+📌 Project Summary
+
+This project is an interactive web application built on Hugging Face Spaces that helps users test whether a Large Language Model (LLM) truly understands a given prompt (instruction or question).
+
+The user writes a prompt, the app sends it to a ready-made language model (Qwen 2.5-7B-Instruct), then automatically analyzes the response to check if the model understood the context and the required task correctly.
+
+The goal is to teach students how prompt quality affects AI understanding and how to evaluate LLM responses in a simple, practical way.
+
 📌 Project Overview
 
 The Prompt Understanding Test is an interactive web application designed to demonstrate advanced Large Language Model (LLM) integration and evaluation techniques.
