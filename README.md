@@ -7,7 +7,7 @@ The user writes a prompt, the app sends it to a ready-made language model (Qwen 
 
 The goal is to teach students how prompt quality affects AI understanding and how to evaluate LLM responses in a simple, practical way.
 
-📌 Project Overview
+📌 Overview
 
 The Prompt Understanding Test is an interactive web application designed to demonstrate advanced Large Language Model (LLM) integration and evaluation techniques.
 
